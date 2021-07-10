@@ -1,0 +1,23 @@
+{
+  "name": "getcertificatebrowsertest",
+  "version": "1.0.0",
+  "description": "Test for select get browser certificate",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroBelge/getCertificateBrowserTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroBelge/getCertificateBrowserTest/issues"
+  },
+  "homepage": "https://github.com/LeandroBelge/getCertificateBrowserTest#readme",
+  "dependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
